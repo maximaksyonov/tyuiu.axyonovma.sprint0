@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.axyonovma.sprint0.task0.v0", "tyuiu.axyonovma.sprint0.task0.v0\tyuiu.axyonovma.sprint0.task0.v0.csproj", "{82B765F0-48E9-4BD0-B5E8-D883EA373952}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{27CCE550-AC37-4B51-83B1-EA24BABF5719}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.axyonovma.sprint0.task1.v0", "tyuiu.axyonovma.sprint0.task1.v0\tyuiu.axyonovma.sprint0.task1.v0.csproj", "{8BB985DE-AB8C-492B-9C84-36E77C22DBB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{82B765F0-48E9-4BD0-B5E8-D883EA373952}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82B765F0-48E9-4BD0-B5E8-D883EA373952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82B765F0-48E9-4BD0-B5E8-D883EA373952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB985DE-AB8C-492B-9C84-36E77C22DBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB985DE-AB8C-492B-9C84-36E77C22DBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB985DE-AB8C-492B-9C84-36E77C22DBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB985DE-AB8C-492B-9C84-36E77C22DBB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{82B765F0-48E9-4BD0-B5E8-D883EA373952} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{8BB985DE-AB8C-492B-9C84-36E77C22DBB3} = {27CCE550-AC37-4B51-83B1-EA24BABF5719}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4947AE50-3959-4160-85D7-83101C205982}
