@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.AxyonovMA.Task3.V0.Lib;
+using Tyuiu.AxyonovMA.Sprint0.Task3.V0.Lib;
 
 namespace Tyuiu.AxyonovMA.Task3.V0
 {

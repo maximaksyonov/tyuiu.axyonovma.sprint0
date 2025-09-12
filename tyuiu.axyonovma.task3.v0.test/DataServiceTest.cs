@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-using Tyuiu.AxyonovMA.Task3.V0.Lib;
+using Tyuiu.AxyonovMA.Sprint0.Task3.V0.Lib;
 
 namespace Tyuiu.AxyonovMA.Task3.V0.Test
 {
