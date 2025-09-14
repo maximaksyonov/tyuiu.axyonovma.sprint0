@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tyuiu.axyonovma.sprint0.task2.v0.lib
 {
-    public class dataservice
+    public class DataService
     {
         public static string getmessage(string name)
         {

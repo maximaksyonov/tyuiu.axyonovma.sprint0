@@ -10,6 +10,7 @@ namespace tyuiu.axyonovma.sprint0.task0.v0
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }

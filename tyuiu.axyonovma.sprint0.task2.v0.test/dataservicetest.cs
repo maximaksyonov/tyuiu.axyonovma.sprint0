@@ -11,7 +11,7 @@ namespace tyuiu.axyonovma.sprint0.task2.v0.test
         public void checkgetmessagevalid()
         {
             var name = "Максим";
-            var res = dataservice.getmessage(name);
+            var res = DataService.getmessage(name);
             Assert.AreEqual("Привет, Максим", res);
         }
     }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FCF341E6-523D-47A0-94F1-068EDB4B46DF}</ProjectGuid>
+    <ProjectGuid>{4B62D232-0404-49E3-AF9F-7D876BE96D97}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>tyuiu.axyonovma.sprint0.task2.v0</RootNamespace>
-    <AssemblyName>tyuiu.axyonovma.sprint0.task2.v0</AssemblyName>
+    <RootNamespace>Tyuiu.AxyonovMA.Sprint0.Task5.V0</RootNamespace>
+    <AssemblyName>Tyuiu.AxyonovMA.Sprint0.Task5.V0</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\tyuiu.axyonovma.sprint0.task2.v0.lib\tyuiu.axyonovma.sprint0.task2.v0.lib.csproj">
-      <Project>{87c5b19c-4ca0-4693-aab4-13a6da3c4b78}</Project>
-      <Name>tyuiu.axyonovma.sprint0.task2.v0.lib</Name>
+    <ProjectReference Include="..\Tyuiu.AxyonovMA.Sprint0.Task5.V0.Lib\Tyuiu.AxyonovMA.Sprint0.Task5.V0.Lib.csproj">
+      <Project>{75241853-cde9-464f-9fcc-92896deaa4c4}</Project>
+      <Name>Tyuiu.AxyonovMA.Sprint0.Task5.V0.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
